@@ -1,0 +1,132 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://alecmtzz.github.io/CPMR/annotations/tejano-nights-on-channel-10-november-22-1996-canvas-1-misc.json",
+  "type": "AnnotationPage",
+  "label": "Misc",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-misc-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "End of music video.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,40.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-misc-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Title card: \"Tejano Nights November 22, 1996\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "73.0,194.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-misc-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Opening title sequence with a montage of various Tejano artists.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "194.0,250.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-misc-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "No video.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2844.0,3183.0"
+        }
+      }
+    }
+  ]
+}

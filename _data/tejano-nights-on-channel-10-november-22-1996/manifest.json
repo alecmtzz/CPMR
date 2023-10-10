@@ -23,6 +23,32 @@
         "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3183.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://alecmtzz.github.io/CPMR/annotations/tejano-nights-on-channel-10-november-22-1996-canvas-1-music-video.json",
+            "label": {
+              "none": ["Music Video"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://alecmtzz.github.io/CPMR/annotations/tejano-nights-on-channel-10-november-22-1996-canvas-1-talking-heads.json",
+            "label": {
+              "none": ["Talking Heads"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://alecmtzz.github.io/CPMR/annotations/tejano-nights-on-channel-10-november-22-1996-canvas-1-misc.json",
+            "label": {
+              "none": ["Misc"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/paintings",

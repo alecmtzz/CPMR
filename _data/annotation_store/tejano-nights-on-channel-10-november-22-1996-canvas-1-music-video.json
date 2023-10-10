@@ -1,0 +1,225 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://alecmtzz.github.io/CPMR/annotations/tejano-nights-on-channel-10-november-22-1996-canvas-1-music-video.json",
+  "type": "AnnotationPage",
+  "label": "Music Video",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-music-video-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Music video: \"Grupo Aguila - Quiero Estar Contigo\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "425.0,650.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-music-video-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Music video: \"La Diferenzia - Alguien Especial\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "805.0,1008.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-music-video-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Music video: \"Emilio Navaira - Quedate\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1128.0,1388.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-music-video-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Music video: \"Fama - Boulevard De Sueños\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1550.0,1782.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-music-video-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Music video: \"Gary Hobbs - Buscando Un Amor\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2152.0,2208.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-music-video-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Music video: \"Elida Y Avante - Atrévete\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2437.0,2618.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-music-video-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Jaime Y Los Chamacos - Como Te Llamas Paloma\" Tape cuts off at 47:24.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2713.0,2844.0"
+        }
+      }
+    }
+  ]
+}

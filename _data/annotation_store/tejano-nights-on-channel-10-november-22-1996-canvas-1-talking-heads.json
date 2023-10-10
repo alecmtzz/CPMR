@@ -1,0 +1,225 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://alecmtzz.github.io/CPMR/annotations/tejano-nights-on-channel-10-november-22-1996-canvas-1-talking-heads.json",
+  "type": "AnnotationPage",
+  "label": "Talking Heads",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-talking-heads-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Intro with hosts Bobby \"Whopper\" Gonzalez and Mary Ann Garza. Shoutouts to people and small businesses in the Austin community. A transition into the next music video.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "250.0,425.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-talking-heads-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Banter between the two hosts. Wishing everybody a Happy Thanksgiving. More shoutouts to people in the Austin community. Transition into the next music video.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "650.0,805.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-talking-heads-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Banter between the two hosts. Thanking the staff by name. More shoutouts to friends and family. \"I wanna say hi to all the students at Porter Middle School.\" A transition into the next music video.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1008.0,1128.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-talking-heads-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Banter between the two hosts. More shoutouts to friends and local businesses. Transition into next music video.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1388.0,1540.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-talking-heads-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Banter between the hosts. Local KKLB DJ named Chris Tristan joins them on screen to promote his DJ services. \"Tejano Young Gun DJ Service.\" Some shoutouts from local callers.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1782.0,1972.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-talking-heads-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Banter between the two hosts. Joined by Chris \"Tejano Man\" Tristan, owner of \"Tejano Young Gun Productions.\" More shoutouts to friends and family.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2208.0,2437.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tejano-nights-on-channel-10-november-22-1996-canvas-1-talking-heads-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Banter between the two hosts. More shoutouts to friends and family",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2618.0,2713.0"
+        }
+      }
+    }
+  ]
+}
