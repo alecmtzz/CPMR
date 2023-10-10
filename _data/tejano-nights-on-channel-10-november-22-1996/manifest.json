@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Tejano Nights on Channel 10, November 22, 1996" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/Tejano-Nights-112296",
+        "type": "Text",
+        "label": { "en": [ "Tejano Nights on Channel 10, November 22, 1996" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3183.0,
+        "items": [
+          {
+            "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia600500.us.archive.org/23/items/Tejano-Nights-112296/002MPC_033022_001_02.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 3183.0
+                },
+                "target": "https://alecmtzz.github.io/CPMR/tejano-nights-on-channel-10-november-22-1996/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
