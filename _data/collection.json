@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Chicana Por Mi Raza" ] },
+    "summary": { "en": [ "Audio and Video annotations for the Chicana Por Mi Raza archives." ] },
+    "items": [
+    ]
+}
